@@ -33,45 +33,27 @@ const RedX = require("../../../img/RedX.png");
 const datas = [
   {
     img: pratik,
-    text: "Itamar",
-    note: "I'm ok, :)",
-    time: "3:43 pm",
-    isOk: true
+    name: "Itamar"
   },
   {
     img: sanket,
-    text: "Kumar Sanket",
-    note: "Every thing is ok..",
-    time: "1:12 pm",
-    isOk: true
+    name: "Kumar Sanket"
   },
   {
     img: megha,
-    text: "Megha",
-    note: "There is no issues :)",
-    time: "10:03 am",
-    isOk: true
+    name: "Megha"
   },
   {
     img: atul,
-    text: "Atul Ranjan",
-    note: "Dont worry!!",
-    time: "5:47 am",
-    isOk: true
+    name: "Atul Ranjan"
   },
   {
     img: saurabh,
-    text: "Saurabh Sahu",
-    note: "I need help",
-    time: "11:11 pm",
-    isOk: false
+    name: "Saurabh Sahu"
   },
   {
     img: varun,
-    text: "Varun Sahu",
-    note: "Help me",
-    time: "8:54 pm",
-    isOk: false
+    name: "Varun Sahu"
   }
 ];
 
@@ -86,7 +68,7 @@ class Followers extends Component {
             </Button>
           </Left>
           <Body>
-            <Title>List Avatar</Title>
+            <Title>Following</Title>
           </Body>
           <Right />
         </Header>
@@ -95,35 +77,16 @@ class Followers extends Component {
           <List
             dataArray={datas}
             renderRow={data =>
-              <SwipeRow
-                rightOpenValue={-75}
-                right={
-                  <Button danger onPress={() => alert("Poke")}>
-                    <Icon active name="trash" />
-                  </Button>
-                }
-                body={
-                  <View style={{ flexDirection: "row" }}>
-                    <Left
-                      style={{ alignSelf: "flex-start", flexDirection: "row" }}
-                    >
-                      <Thumbnail small source={data.img} />
-                      <Text numberOfLines={1} note>
-                        {data.isOk
-                          ? <Thumbnail small source={BlueV} />
-                          : <Thumbnail small source={RedX} />}
-                        {data.note}
-                      </Text>
-                    </Left>
-
-                    <Right style={{ alignSelf: "flex-end" }}>
-                      <Text note>
-                        {data.time}
-                      </Text>
-                    </Right>
-                  </View>
-                }
-              />}
+              <ListItem avatar onPress={() => {}}>
+                <Left>
+                  <Thumbnail small source={data.img} />
+                </Left>
+                <Body>
+                  <Text>
+                    {data.name}
+                  </Text>
+                </Body>
+              </ListItem>}
           />
         </Content>
       </Container>

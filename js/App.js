@@ -81,6 +81,7 @@ import SimpleDeck from "./components/deckswiper/simple";
 import AdvancedDeck from "./components/deckswiper/advanced";
 
 import Followers from "./components/followers";
+import Following from "./components/following";
 
 const AppNavigator = StackNavigator(
     {
@@ -170,7 +171,8 @@ const AppNavigator = StackNavigator(
 
         RegularActionSheet: { screen: RegularActionSheet },
         IconActionSheet: { screen: IconActionSheet },
-        Followers: { screen: Followers }
+        Followers: { screen: Followers },
+        Following: { screen: Following },
     },
     {
         initialRouteName: "Drawer",

@@ -37,6 +37,7 @@ import Toast from "./components/toast";
 import Actionsheet from "./components/actionsheet";
 
 import Followers from "./components/followers";
+import Following from "./components/following";
 
 const DrawerExample = DrawerNavigator(
   {
@@ -70,7 +71,8 @@ const DrawerExample = DrawerNavigator(
     Segment: { screen: Segment },
     Toast: { screen: Toast },
     Actionsheet: { screen: Actionsheet },
-    Followers: { screen: Followers }
+    Followers: { screen: Followers },
+    Following: { screen: Following }
   },
   {
     initialRouteName: "Home",
