@@ -24,8 +24,8 @@ class Header9 extends Component {
     return (
       <Container style={styles.container}>
         <Header
-          style={{ backgroundColor: "#dc4239" }}
-          androidStatusBarColor="#dc2015"
+          style={{ backgroundColor: "#37BCBB" }}
+          androidStatusBarColor="#37BCBB"
           iosBarStyle="light-content"
         >
           <Left>
