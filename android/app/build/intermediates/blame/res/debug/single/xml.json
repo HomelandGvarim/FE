@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Code\\Hack\\FE-Phone\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Code\\Hack\\FE-Phone\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.46.4\\res\\xml\\preferences.xml"
+    },
+    {
         "merged": "C:\\Users\\Owner\\Desktop\\Git\\Hackaton\\FE-Phone\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "C:\\Users\\Owner\\Desktop\\Git\\Hackaton\\FE-Phone\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.46.4\\res\\xml\\preferences.xml"
     }
