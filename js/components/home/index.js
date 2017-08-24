@@ -5,8 +5,8 @@ import { Container, Button, H3, Text, Header, Title, Body, Left, Right } from "n
 
 import styles from "./styles";
 
-const launchscreenBg = require("../../../img/launchscreen-bg.png");
-const launchscreenLogo = require("../../../img/logo-kitchen-sink.png");
+const launchscreenBg = require("../../../img/gray-background.png");
+const launchscreenLogo = require("../../../img/ShieldLogo.png");
 
 class Home extends Component {
 	// eslint-disable-line
@@ -14,8 +14,10 @@ class Home extends Component {
 	render() {
 		return (
 			<Container>
+			
 				<StatusBar barStyle="light-content" />
 				<Image source={launchscreenBg} style={styles.imageContainer}>
+				
 					<View style={styles.logoContainer}>
 						<Image source={launchscreenLogo} style={styles.logo} />
 					</View>
@@ -26,7 +28,7 @@ class Home extends Component {
 							backgroundColor: "transparent",
 						}}
 					>
-						<H3 style={styles.text}>App to showcase</H3>
+						<H3 style={styles.text}>App to showcase hajaj fagasfsf</H3>
 						<View style={{ marginTop: 8 }} />
 						<H3 style={styles.text}>NativeBase components</H3>
 						<View style={{ marginTop: 8 }} />

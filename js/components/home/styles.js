@@ -14,12 +14,12 @@ export default {
     flex: 1,
     marginTop: deviceHeight / 8,
     marginBottom: 30
-  },
+    },
   logo: {
     position: "absolute",
-    left: Platform.OS === "android" ? 40 : 50,
+    left: Platform.OS === "android" ? 130 : 50,
     top: Platform.OS === "android" ? 35 : 60,
-    width: 280,
+    width: 100,
     height: 100
   },
   text: {
