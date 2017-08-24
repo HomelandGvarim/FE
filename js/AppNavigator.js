@@ -94,6 +94,8 @@ import AdvSegment from "./components/segment/segmentTab";
 import Toast from "./components/toast";
 import statusBarColor from "./themes/variables";
 
+import Followers from "./components/followers";
+
 class AppNavigator extends Component {
   render() {
     return ;

@@ -31,7 +31,7 @@ class Header1 extends Component {
         </Header>
 
         <Content padder>
-          <Button onPress={() => this.props.navigation.goBack()}>
+          <Button onPress={() => console.log("hi")}>
             <Text>Back</Text>
           </Button>
         </Content>

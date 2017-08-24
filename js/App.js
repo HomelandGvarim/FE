@@ -79,6 +79,8 @@ import AdvSegment from "./components/segment/segmentTab";
 import SimpleDeck from "./components/deckswiper/simple";
 import AdvancedDeck from "./components/deckswiper/advanced";
 
+import Followers from "./components/followers";
+
 const AppNavigator = StackNavigator(
     {
         Drawer: { screen: Drawer },
@@ -166,6 +168,7 @@ const AppNavigator = StackNavigator(
 
         RegularActionSheet: { screen: RegularActionSheet },
         IconActionSheet: { screen: IconActionSheet },
+        Followers: { screen: Followers }
     },
     {
         initialRouteName: "Drawer",
