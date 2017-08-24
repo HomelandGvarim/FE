@@ -1,9 +1,10 @@
 import React, { Component } from "react";
-import { Image, View, StatusBar,TouchableHighlight } from "react-native";
+import { Image, View, StatusBar,TouchableHighlight,TouchableOpacity  } from "react-native";
 
 import { Container, Button, H3, Text, Header, Title, Body, Left, Right ,Toast } from "native-base";
 
 import styles from "./styles";
+
 
 const launchscreenBg = require("../../../img/gray-background.png");
 const launchscreenLogo = require("../../../img/ShieldLogo.png");
@@ -36,19 +37,6 @@ class Home extends Component {
 		}
 	}
 	 _onOkButtonClick(){
-	 this.setState({
-		 oklogo: {
-    	left:  70,
-    	top:  0 ,
-    	width: 80,
-    	height: 80
-  		}
-	 })
-	 setTimeout(()=>{
-		this.setState({
-				oklogo: oklogo
-			})
-	 },70)
 		 Toast.show({
                 text: "Wrong password!",
                 buttonText: "Okay"
@@ -59,35 +47,26 @@ class Home extends Component {
 		type:"success",
 		duration:2000
 	})
+	this.test()
  }
 
  _onNotOkButtonClick(){
-	 this.setState({
-		 notOklogo: {
-    	left:  30,
-    	top:  0 ,
-    	width: 80,
-    	height: 80
-  		}
-	 })
-	 setTimeout(()=>{
-		this.setState({
-				notOklogo: notOklogo
-			})
-	 },70)
-	 //ToastAndroid.showWithGravity("Sent Location!",2,1)
-
 	  Toast.show({
 		text:"SOS Sent to followers!",
 		type:"danger",
 		duration:2000,
 		position:'bottom'
 	})
+	this.test()
+
  }
+ test(){
+	
+ }
+ 
 	render() {
 		return (
 			<Container>
-			
 				<StatusBar barStyle="light-content" />
 				<Image source={launchscreenBg} style={styles.imageContainer}>
 				
@@ -97,15 +76,15 @@ class Home extends Component {
 					<View style={styles.logoContainer}>
 					
 						<Container>
-							<TouchableHighlight   onPress={()=>{this._onOkButtonClick()}} underlayColor={'transparent'}  >
+							<TouchableOpacity   onPress={()=>{this._onOkButtonClick()}} underlayColor={'transparent'}  >
 								<Image style={this.state.oklogo} source={thumbsUpButton} />
-							</TouchableHighlight>
+							</TouchableOpacity>
 						</Container>
 					
 						<Container>
-							<TouchableHighlight   onPress={()=>{this._onNotOkButtonClick()}}  underlayColor={'transparent'} >
+							<TouchableOpacity    onPress={()=>{this._onNotOkButtonClick()}}  underlayColor={'transparent'} >
 								<Image style={this.state.notOklogo} source={thumbsDownButton}/>
-							</TouchableHighlight>
+							</TouchableOpacity>
 						</Container>
 					
 					</View>
