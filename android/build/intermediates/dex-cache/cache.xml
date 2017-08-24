@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_7f0edec8b62ce9777604dae21bf02e0af02bbb65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_0f5056a2db0997c056866cfc6921b9a05b8a5969.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.47.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.47.2_d33860a387fa5c508bc11a987f4749af648e6950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_293fdcbe93403fecb1777a67c2db3933e6bfaa85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_6d7f4d80019997b07af9b7c2ec466c48990bbd55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_ed86f6390e38de53bd6ae39e639178766b99529b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_bb05d119a1286be17d2d2f89589acae0d9639ce6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_baabfbcd96200edb51d5837c0097820b7215feb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_e89b5efc9869d16df6cb04661e6a614c2a77879f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_d2b6a06d396b404ab52c5e215ecee30cd56874ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_d59fb5a06d7abdbd012b6ee7a07de272d6af5c78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_e96c8ca4f070cd68c51dd2123df6dd25d549c264.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.47.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.47.2_4106f30f801336409dfb5378df5adac76c52690e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_0c1bf86df4698080acf79acafb80f3d40cab5017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_2f55abe115eb4dc259ef7dae12001851c570f902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_946a2db656dea73041af329e4692616e15148f12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_daec7a9228f328226d4718ef0f5050bd214ac622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_6d3b58e8e5f11d9bf262ff1b21c2a565b31b780d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_fe24cd04c65a04fc165ef956500945e90442f779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_638db6d41eed775c8b573c429522bb73c0e062e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_b864ace1d73b2bf571e160baac019846f906b282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_55ed07136325cdc2a2e455b6616134485c069452.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.47.2\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_8841113ee305337d16133931cd8315857f96ca51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_ed5f6ba188ca26df049842dbdee7870e6003f99c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_20279ccee6c539bbd38bae04e9df9a9e4666ddec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_12aa99e6ffed9aca508b455317057ff7894516a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.47.2\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_5d2f32fd0c1278c7fe0d79942af30c8349baa8e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_e54b02a10195395f29c662a8c5ddd6d5f71fe0e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_640c75b477a8a5f02318542b16b13eedd0a4f165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_5a85b47ae0337830754dd71df3b05e4d045ebba8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_da84c0d97c04e042c5a17ea679dba10be42cfe0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_a7e20cded68c3597335e426c025a55b97c02e3c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_30af34f7b53e8d51e3bd2215861648f1f0cf87b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\Users\Owner\Desktop\Git\Hackaton\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_085161cfa6cf416c90c8f546cd2c338ae491144a.jar" />
+    </item>
+
+</items>
