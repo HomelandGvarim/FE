@@ -1,7 +1,13 @@
 import React, { Component } from "react";
+<<<<<<< HEAD
+import { Image, View, StatusBar } from "react-native";
+import GeolocationExample from '../ours/GeolocationExample';
+import { Container, Button, H3, Text, Header, Title, Body, Left, Right } from "native-base";
+=======
 import { Image, View, StatusBar,TouchableHighlight,TouchableOpacity  } from "react-native";
 
 import { Container, Button, H3, Text, Header, Title, Body, Left, Right ,Toast } from "native-base";
+>>>>>>> 6027e4131f26899250c706f57db3329a6703d46d
 
 import styles from "./styles";
 
@@ -73,6 +79,20 @@ class Home extends Component {
 					<View style={styles.logoContainer}>
 						<Image source={launchscreenLogo} style={styles.logo} />
 					</View>
+<<<<<<< HEAD
+					<View
+						style={{
+							alignItems: "center",
+							marginBottom: 50,
+							backgroundColor: "transparent",
+						}}
+					>
+						<H3 style={styles.text}>App to showcase</H3>
+						
+						<View style={{ marginTop: 8 }} />
+						<H3 style={styles.text}>NativeBase components</H3>
+						<View style={{ marginTop: 8 }} />
+=======
 					<View style={styles.logoContainer}>
 					
 						<Container>
@@ -87,6 +107,7 @@ class Home extends Component {
 							</TouchableOpacity>
 						</Container>
 					
+>>>>>>> 6027e4131f26899250c706f57db3329a6703d46d
 					</View>
 					
 						
@@ -96,7 +117,11 @@ class Home extends Component {
 							style={{ backgroundColor: "#37BCBB", alignSelf: "center" }}
 							onPress={() => this.props.navigation.navigate("DrawerOpen")}
 						>
+<<<<<<< HEAD
+							<Text>Lets Go! MatanL</Text>
+=======
 							<Text>Go to Settings</Text>
+>>>>>>> 6027e4131f26899250c706f57db3329a6703d46d
 						</Button>
 					</View>
 				</Image>
