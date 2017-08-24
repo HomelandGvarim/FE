@@ -28,6 +28,7 @@ class GeolocationExample extends Component {
         this.state.marker.markerCoordinate = position.coords;
         this.state.latitude = position.coords.latitude;
         this.state.longitude = position.coords.longitude;
+        this.state.marker.key++;
         this.setState(this.state);
       },
       (error) => this.setState({ error: error.message }),
@@ -66,10 +67,10 @@ class GeolocationExample extends Component {
             {this.state.markers}
           </ MapView>
         </View>
-          <Button style={{ backgroundColor: "#6FAF98", alignSelf: "center" }}
-            onPress={() => this.createMarker()}>
-             <Text> Add my location </Text>
-          </ Button>
+        <Button style={{ backgroundColor: "#6FAF98", alignSelf: "center" }}
+          onPress={() => this.createMarker()}>
+          <Text> Add my location </Text>
+        </ Button>
       </Container>
     );
   }
