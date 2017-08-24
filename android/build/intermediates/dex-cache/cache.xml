@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.0.4\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_29eb4f51f5dcb2aca43ec16f8b1ab6ad207a5502.jar" />
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-11.0.4_4964c2b7f45ba6ca344c17a0b4537a4a43535dc2.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,6 +39,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_2a8d6753f745e98cef7e79a0157d01867659206c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\yuval\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
@@ -57,21 +66,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_a5550ba3c7a4e844b50ee9462ca8ac87519eb97e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_c6d82b5977d98921be55e3d2c7d75dd415c17d7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.46.4\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
         <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.46.4_6bdf8796414830bae5641ee4f7c0c5d9ca39bf04.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.4\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
-        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.4_16568952ee01182486cd4070d60e9d66226f290c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,12 +102,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_c18b130b5eb0e75905e55ed66e88600463054a5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="8f615bca00639150c9eb6175d4b5471193f70794">
         <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_a9bd083b77b51d158fe04eda49580e15696677e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.8\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="531c33d3697000a05e9493a2d0f09ba41fa114d3">
+        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\me.leolin-ShortcutBadger-1.1.8_8a3b08dcbf79ba997f9fe5e2fb1582c5a01c86f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_0c2523481554e8991128a9dff396c3fca4b315e0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,12 +156,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.4\jars\classes.jar"
+        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
-        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.4_93a83aeb028d99b69ce93243ae444bc1b261a030.jar" />
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.4_ac920e10832c2208b1d00cfaa0d47c545225c08e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -126,6 +171,24 @@
         revision="23.0.1"
         sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
         <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_42873e1c1b08d9b3695dd547311a64d920fa5069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.4_53aaf58789f8c5df25bf6787ff0b09a8321d7eb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-11.0.4_849ef2426831711aa7b4ebc53a06126ec5a23450.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,12 +219,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_759543169e30864ae9ab563fb55df057cb728675.jar" />
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_3ab93f63ae0730539471bf2c07542e49a35e5b7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_ca6479ffbee020187056fa10d2caa5becef1effb.jar" />
     </item>
     <item
         is-multidex="false"
@@ -192,6 +264,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_ff577d60d31da0d09ab3e273818527d0db96a711.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.46.4\jars\libs\infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -201,12 +282,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_a451b98b2b3e6d1f6c39ec504f9ee4a2d33e6fa3.jar" />
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.4_b505f9f6f96c16edd55f76a248e43bc5def1c2c1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -228,21 +309,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.4\jars\classes.jar"
+        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\NativebaseKitchenSink\react-native-push-notification\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
-        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.4_3e771b3323a3708163d6060bb94486db6e7936ac.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Code\Hack\FE-Phone\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_1ac25e7c8518906c629ead6f4211a6d755065a64.jar" />
+        sha1="2e3e5a199c7209bab2dd53b85eefb664494af06d">
+        <dex dex="C:\Code\Hack\FE-Phone\android\app\build\intermediates\pre-dexed\debug\NativebaseKitchenSink-react-native-push-notification-unspecified_f91fa34f2bc8e2e4680edeb20c6eec95e962649e.jar" />
     </item>
 
 </items>
