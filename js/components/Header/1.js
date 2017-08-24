@@ -24,7 +24,7 @@ class Header1 extends Component {
         <Header>
           <Left />
           <Body>
-            <Title>Header</Title>
+            <Title>Hey</Title>
           </Body>
           <Right />
 
